@@ -168,8 +168,6 @@ This mini-project helps you understand:
 ---
 
 ## 👨‍💻 Author
-
-**Your Name Here**
 📧 [oloostephen22@gmail.com](oloostephen22@gmail.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/stephenoloolegacyio)
 
