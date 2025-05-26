@@ -24,7 +24,7 @@ node-checkpoint/
 ├── hello-world.js            # Task 1: Print to console
 ├── server.js                 # Task 2: Simple HTTP server
 ├── fileSystem.js            # Task 3: File operations
-├── password-generator.js     # Task 4: Random password generation
+├── passwordGenerator.js     # Task 4: Random password generation
 ├── emailSender.js           # Task 5: Send email via Node
 ├── welcome.txt               # Created by fileSystem.js
 ├── hello.txt                 # Manually created or included for Task 3
